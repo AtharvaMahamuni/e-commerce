@@ -1,3 +1,2 @@
-# MDC-104 for Material Components for Android (Java)
-
-Contains complete code structure for the MDC-104 Java codelab.
+# E-Commerce site demo
+Building the E-Commerce site with the apihub APIs.
